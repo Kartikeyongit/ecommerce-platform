@@ -6,3 +6,4 @@ dist
 *.log
 *.pem
 .DS_Store
+.env.example
