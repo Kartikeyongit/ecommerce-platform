@@ -318,14 +318,14 @@ db.products.insertMany([
 
 ## Future Enhancements
 
-- [ ] Admin dashboard for product management
-- [ ] Product reviews and ratings
-- [ ] Wishlist functionality
-- [ ] Email notifications
-- [ ] Inventory management
-- [ ] Multiple payment methods
-- [ ] Order tracking
-- [ ] User analytics
+- Admin dashboard for product management
+- Product reviews and ratings
+- Wishlist functionality
+- Email notifications
+- Inventory management
+- Multiple payment methods
+- Order tracking
+- User analytics
 
 ## License
 
