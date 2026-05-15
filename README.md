@@ -316,16 +316,64 @@ db.products.insertMany([
 - Check Stripe test mode is enabled
 - Ensure publishable key is in frontend .env
 
+## 📸 Screenshots  
+
+### **Home Page**
+
+<img width="1908" height="4819" alt="image" src="https://github.com/user-attachments/assets/0535af4b-f77d-426c-abf5-632ad3628900" />
+
+### **Register Page**
+
+<img width="1908" height="2280" alt="image" src="https://github.com/user-attachments/assets/4384ff7f-7109-4d58-b9fc-30fea1707536" />
+
+### **Login Page**
+
+<img width="1908" height="2280" alt="image" src="https://github.com/user-attachments/assets/f0095562-cec7-491c-b499-fc7298e1e62b" />
+
+### **Products List Page**
+
+<img width="1908" height="4921" alt="image" src="https://github.com/user-attachments/assets/2b35e44f-7183-4472-8f73-eb7ec4ed9254" />
+
+### **Product Page**
+
+<img width="1908" height="3040" alt="image" src="https://github.com/user-attachments/assets/ae5387b0-0eea-4372-bd82-4171c7fb4336" />
+
+### **Cart Page**
+
+<img width="1908" height="1956" alt="image" src="https://github.com/user-attachments/assets/92dab493-29bd-41bc-923e-09b04c271dc8" />
+
+### **Checkout Page**
+
+<img width="1908" height="2463" alt="image" src="https://github.com/user-attachments/assets/0c37fbde-9a95-40a2-a9cd-77a92d0732ef" />
+
+### **Order Page**
+
+<img width="1908" height="2875" alt="image" src="https://github.com/user-attachments/assets/a8e58b98-d3f0-42c6-92a7-dd5aaa0b59ce" />
+
+### **Orders List Page**
+
+<img width="1908" height="2217" alt="image" src="https://github.com/user-attachments/assets/21512afd-16eb-4690-9b7a-366ef410bed6" />
+
+### **Profile Page**
+
+<img width="1908" height="2518" alt="image" src="https://github.com/user-attachments/assets/36716614-21fb-4cad-b047-07f1167309f1" />
+
+### **Admin Page**
+
+<img width="1908" height="2158" alt="image" src="https://github.com/user-attachments/assets/6e161a0e-8cfa-4438-9ef8-c0cea9243844" />
+<img width="1908" height="1998" alt="image" src="https://github.com/user-attachments/assets/4594ed4f-adfc-436a-9518-316606ea7837" />
+<img width="1908" height="1998" alt="image" src="https://github.com/user-attachments/assets/b17080ad-bf52-409b-9298-9fd478a1d0ba" />
+
 ## Future Enhancements
 
-- [ ] Admin dashboard for product management
-- [ ] Product reviews and ratings
-- [ ] Wishlist functionality
-- [ ] Email notifications
-- [ ] Inventory management
-- [ ] Multiple payment methods
-- [ ] Order tracking
-- [ ] User analytics
+- Admin dashboard for product management
+- Product reviews and ratings
+- Wishlist functionality
+- Email notifications
+- Inventory management
+- Multiple payment methods
+- Order tracking
+- User analytics
 
 ## License
 
